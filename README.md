@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://techcrunch.com/wp-content/uploads/2015/04/facebook-api.png?w=680">
+  <img width="460" height="300" src="https://marketingland.com/wp-content/ml-loads/2016/11/facebook-users-people-diversity1-ss-1920.jpg">
 </p>
 
 
