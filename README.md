@@ -11,7 +11,7 @@ Given a directed social graph, we have to predict missing links to recommend fri
 
 ### Data Overview
 Taken data from facebook's recruting challenge on kaggle https://www.kaggle.com/c/FacebookRecruiting  
-data contains two columns source and destination eac edge in graph 
+data contains two columns source and destination for each edge in graph 
     - Data columns (total 2 columns):  
     - source_node         int64  
     - destination_node    int64  
@@ -28,8 +28,8 @@ data contains two columns source and destination eac edge in graph
     
 ### Business objectives and constraints:  
 - No low-latency requirement.
-- Probability of prediction is useful to recommend ighest probability links
+- Probability of prediction is useful to recommend highest probability links
 
 ### Performance metric for supervised learning:  
-- Both precision and recall is important so F1 score is good choice
-- Confusion matrix
+- Both precision and recall is important so F1 score is good choice.
+- Confusion matrix.
